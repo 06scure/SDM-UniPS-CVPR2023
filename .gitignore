@@ -4,6 +4,7 @@ ckpt/
 input**
 .gradio
 results/
+.vscode/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 **/__pycache__/
